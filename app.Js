@@ -1,0 +1,3 @@
+
+
+alert("this script work")
