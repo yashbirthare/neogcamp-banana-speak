@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Pacifico&family=Playball&display=swap');
+
+:root {
+    --primary-colour: #facc15;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    background-color:
+        var(--primary-colour);
+    padding: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+.button {
+    background-color: #facc15;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+p {
+    background-color:
+        var(--primary-colour);
+    padding: 5rem;
+    text-align: center
+}
+   
