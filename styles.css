@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Pacifico&family=Playball&display=swap');
 
 :root {
-    --primary-colour: #facc15;
+    --primary-colour: #ffd600;
 }
 
 body {
@@ -13,6 +13,10 @@ h1 {
         var(--primary-colour);
     padding: 1rem;
 }
+
+
+
+
 
 h1 {
     text-align: center;
@@ -39,4 +43,4 @@ p {
     padding: 5rem;
     text-align: center
 }
-   
+  
