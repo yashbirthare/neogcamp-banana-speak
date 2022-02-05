@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&family=Pacifico&family=Playball&family=Roboto:wght@500&display=swap');
 
-*{
+* {
     box-sizing: border-box;
 }
 
 :root {
-    --primary: #F2C94C;
+    --primary: #fef08a;
     --black: #333333;
-    --width-break:600px
+    --width-break: 600px
 }
 
 body {
@@ -52,7 +52,7 @@ button {
     width: 100%;
     min-height: 10vh;
     max-height: 20vh;
-    overflow:scroll;
+    overflow: scroll;
     border: 1px solid var(--black);
 }
 
